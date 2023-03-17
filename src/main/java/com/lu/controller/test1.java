@@ -39,6 +39,7 @@ public class test1 {
     public User testResponseUser(){
         System.out.println("test1");
         System.out.println("test2");
+        System.out.println("test3");
         return new User(1001,"鲁文慧",'男',"123456");
     }
 }
