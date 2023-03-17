@@ -40,6 +40,7 @@ public class test1 {
         System.out.println("test1");
         System.out.println("test2");
         System.out.println("test3");
+        System.out.println("hot-fix test4");
         return new User(1001,"鲁文慧",'男',"123456");
     }
 }
