@@ -43,6 +43,7 @@ public class test1 {
         System.out.println("master test4");
         System.out.println("hot-fix test4");
         System.out.println("push test1");
+        System.out.println("pull test1");
         return new User(1001,"鲁文慧",'男',"123456");
     }
 }
