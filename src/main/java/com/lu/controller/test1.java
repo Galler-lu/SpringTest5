@@ -37,6 +37,8 @@ public class test1 {
     @RequestMapping("/testResponseUser")
     @ResponseBody
     public User testResponseUser(){
+        System.out.println("test1");
+
         return new User(1001,"鲁文慧",'男',"123456");
     }
 }
